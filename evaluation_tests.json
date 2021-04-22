@@ -1,0 +1,60 @@
+{
+  "tests": [
+    {
+      "username": "petkostefan",
+      "putovanja": "da",
+      "kontakt_sa_zarazenim": "ne",
+      "temperatura": "ne",
+      "kasalj": "ne",
+      "slabost": "ne",
+      "gubitak_mirisa": "ne",
+      "gubitak_ukusa": "ne",
+      "brzi_test": "/",
+      "pcr_test": "/",
+      "status": "Pod nadzorom",
+      "time": [2021, 1, 7, 17, 57, 41, 4, 8, 0]
+    },
+    {
+      "username": "test",
+      "putovanja": "da",
+      "kontakt_sa_zarazenim": "da",
+      "temperatura": "ne",
+      "kasalj": "ne",
+      "slabost": "da",
+      "gubitak_mirisa": "ne",
+      "gubitak_ukusa": "da",
+      "brzi_test": "/",
+      "status": "Pozitivan",
+      "pcr_test": "Pozitivan",
+      "time": [2021, 1, 8, 18, 0, 52, 4, 8, 0]
+    },
+    {
+      "username": "milica",
+      "putovanja": "da",
+      "kontakt_sa_zarazenim": "da",
+      "temperatura": "da",
+      "kasalj": "ne",
+      "slabost": "ne",
+      "gubitak_mirisa": "ne",
+      "gubitak_ukusa": "da",
+      "brzi_test": "/",
+      "status": "Negativan",
+      "pcr_test": "Negativan",
+      "time": [2021, 1, 8, 18, 2, 58, 4, 8, 0]
+    },
+    {
+      "username": "petkosara",
+      "putovanja": "da",
+      "kontakt_sa_zarazenim": "da",
+      "temperatura": "ne",
+      "kasalj": "ne",
+      "slabost": "da",
+      "gubitak_mirisa": "da",
+      "gubitak_ukusa": "da",
+      "brzi_test": "Negativan",
+      "status": "Pozitivan",
+      "pcr_test": "Pozitivan",
+      "time": [2021, 1, 8, 18, 3, 1, 4, 8, 0]
+    }
+  ]
+}
